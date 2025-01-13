@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you’ll find my projects, experiments, and m
   - **Networking:** Cisco (network setup), Nginx  
 
 - **Projects:**
-  - **First Project**  
+  - **Project-B**  
     **Description:** A web application developed with Django and Docker.  
     **Technologies Used:** Django, SQLite, Redis, Celery, CeleryBeat, MailHog, Flower, Swagger, Django Admin.
 
