@@ -61,20 +61,4 @@ Here are some of the technologies and tools I’ve been using or exploring:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rowizar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Rowizar's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rowizar&theme=dark&hide_border=false" alt="Rowizar's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowizar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Rowizar's Top Languages" />
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Rowizar&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 _Thank you for visiting my profile! Feel free to reach out through [Issues](https://github.com/Rowizar/Rowizar/issues) or [Pull Requests](https://github.com/Rowizar/Rowizar/pulls) if you have any questions, suggestions, or just want to say hello._
